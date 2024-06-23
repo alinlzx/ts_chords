@@ -6,6 +6,8 @@
 
  This repo contains data and relevant visualizations/analyses for 147 Taylor Swift songs. The data combines numerical metrics from Spotify API and my interpretations of which chord/the number of chords Taylor Swift used. 
 
+ The full dataset can be found under `ts_chords/build/mst`
+
  Chords are identified based on the following methodology: 
 
 ## How chords are identified
